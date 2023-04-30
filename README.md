@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am working on becoming a software developer at Nashville Software School.
+I am a software developer at Nashville Software School.
 
 <!--
 **bigjlr2004/bigjlr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
